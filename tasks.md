@@ -1,6 +1,5 @@
-#### **Title:** *Let's Practice Making API Requests with cURL*  
+#### *Let's Practice Making API Requests with cURL*  
 
-#### **Content:**  
 ✅ **Task 1: Fetch a Random Cat Fact**  
    - Use the **Cat Facts API** to fetch a random fact:  
      ```bash
